@@ -17,4 +17,6 @@ add_executable(CAndCppLearning
         c/11typedef.c
         c/12extern_keyword.c
         c/13position.c
-        c/leetcode/1_twoSum.c c/leetcode/9_palindrome.c)
+        c/14binary_number.c
+        c/leetcode/1_twoSum.c
+        c/leetcode/9_palindrome.c)

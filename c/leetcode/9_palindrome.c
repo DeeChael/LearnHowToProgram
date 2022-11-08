@@ -30,7 +30,7 @@ bool isPalindrome(int x){
     return true;
 }
 
-int main() {
+int mainLeet9() {
     for (int i = 0; i < 10000000; i++) {
         if (isPalindrome(i))
             printf("%i\n", i);
